@@ -8,7 +8,7 @@ After it being defined, it can futher be used for Lanczos or Hoseholder method d
 ## example
 In this example, adding a hopping term between site 0 and site 3 is shown. In formalism, it represent the term:   
 
-  t<sub>03</sub>Σ(<sub>σ</sub>c<sup>+</sup><sub>0σ</sub>c<sub>3σ</sub>+h.c.) </br>
+  t<sub>03</sub>Σ<sub>σ</sub>(c<sup>+</sup><sub>0σ</sub>c<sub>3σ</sub>+h.c.) </br>
 
 one can find many more kinds of interactions in source code directly.
 
